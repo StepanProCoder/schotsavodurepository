@@ -39,12 +39,12 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(155, 430);
+            this.button1.Location = new System.Drawing.Point(142, 448);
             this.button1.Margin = new System.Windows.Forms.Padding(4);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(151, 46);
+            this.button1.Size = new System.Drawing.Size(142, 55);
             this.button1.TabIndex = 5;
-            this.button1.Text = "Далее";
+            this.button1.Text = "1";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -55,7 +55,7 @@
             this.pictureBox1.Location = new System.Drawing.Point(0, 0);
             this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(968, 295);
+            this.pictureBox1.Size = new System.Drawing.Size(874, 295);
             this.pictureBox1.TabIndex = 4;
             this.pictureBox1.TabStop = false;
             // 
@@ -66,18 +66,18 @@
             this.label1.Location = new System.Drawing.Point(164, 327);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(92, 31);
+            this.label1.Size = new System.Drawing.Size(91, 31);
             this.label1.TabIndex = 3;
-            this.label1.Text = "label1";
+            this.label1.Text = "Текст";
             // 
             // button2
             // 
             this.button2.Enabled = false;
-            this.button2.Location = new System.Drawing.Point(155, 494);
+            this.button2.Location = new System.Drawing.Point(142, 510);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(151, 40);
+            this.button2.Size = new System.Drawing.Size(142, 58);
             this.button2.TabIndex = 6;
-            this.button2.Text = "button2";
+            this.button2.Text = "2";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Visible = false;
             this.button2.Click += new System.EventHandler(this.button2_Click);
@@ -85,11 +85,11 @@
             // button3
             // 
             this.button3.Enabled = false;
-            this.button3.Location = new System.Drawing.Point(582, 430);
+            this.button3.Location = new System.Drawing.Point(410, 448);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(142, 46);
+            this.button3.Size = new System.Drawing.Size(145, 55);
             this.button3.TabIndex = 7;
-            this.button3.Text = "button3";
+            this.button3.Text = "3";
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Visible = false;
             this.button3.Click += new System.EventHandler(this.button3_Click);
@@ -97,11 +97,11 @@
             // button4
             // 
             this.button4.Enabled = false;
-            this.button4.Location = new System.Drawing.Point(582, 494);
+            this.button4.Location = new System.Drawing.Point(410, 510);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(142, 40);
+            this.button4.Size = new System.Drawing.Size(145, 58);
             this.button4.TabIndex = 8;
-            this.button4.Text = "button4";
+            this.button4.Text = "4";
             this.button4.UseVisualStyleBackColor = true;
             this.button4.Visible = false;
             this.button4.Click += new System.EventHandler(this.button4_Click);
@@ -110,7 +110,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(968, 552);
+            this.ClientSize = new System.Drawing.Size(874, 580);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
@@ -128,12 +128,13 @@
         }
 
         #endregion
+
+        private System.Windows.Forms.Button button1;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Label label1;
-        public System.Windows.Forms.Button button2;
-        public System.Windows.Forms.Button button3;
-        public System.Windows.Forms.Button button1;
-        public System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button button4;
     }
 }
 

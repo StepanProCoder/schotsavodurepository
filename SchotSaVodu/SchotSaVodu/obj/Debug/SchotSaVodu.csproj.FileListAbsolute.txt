@@ -18,3 +18,13 @@ C:\Users\DELL\Desktop\Важное\SchotSaVodu\SchotSaVodu\obj\Debug\SchotSaVodu
 C:\Users\DELL\Desktop\Важное\SchotSaVodu\SchotSaVodu\obj\Debug\SchotSaVodu.csproj.CoreCompileInputs.cache
 C:\Users\DELL\Desktop\Важное\SchotSaVodu\SchotSaVodu\obj\Debug\SchotSaVodu.exe
 C:\Users\DELL\Desktop\Важное\SchotSaVodu\SchotSaVodu\obj\Debug\SchotSaVodu.pdb
+C:\Users\DELL\Downloads\Visual novella\schotsavodurepository\SchotSaVodu\SchotSaVodu\bin\Debug\SchotSaVodu.exe.config
+C:\Users\DELL\Downloads\Visual novella\schotsavodurepository\SchotSaVodu\SchotSaVodu\bin\Debug\SchotSaVodu.exe
+C:\Users\DELL\Downloads\Visual novella\schotsavodurepository\SchotSaVodu\SchotSaVodu\bin\Debug\SchotSaVodu.pdb
+C:\Users\DELL\Downloads\Visual novella\schotsavodurepository\SchotSaVodu\SchotSaVodu\obj\Debug\SchotSaVodu.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Downloads\Visual novella\schotsavodurepository\SchotSaVodu\SchotSaVodu\obj\Debug\SchotSaVodu.Form1.resources
+C:\Users\DELL\Downloads\Visual novella\schotsavodurepository\SchotSaVodu\SchotSaVodu\obj\Debug\SchotSaVodu.Properties.Resources.resources
+C:\Users\DELL\Downloads\Visual novella\schotsavodurepository\SchotSaVodu\SchotSaVodu\obj\Debug\SchotSaVodu.csproj.GenerateResource.Cache
+C:\Users\DELL\Downloads\Visual novella\schotsavodurepository\SchotSaVodu\SchotSaVodu\obj\Debug\SchotSaVodu.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Visual novella\schotsavodurepository\SchotSaVodu\SchotSaVodu\obj\Debug\SchotSaVodu.exe
+C:\Users\DELL\Downloads\Visual novella\schotsavodurepository\SchotSaVodu\SchotSaVodu\obj\Debug\SchotSaVodu.pdb
